@@ -1,0 +1,228 @@
+body {
+    font-family: arial;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000;
+  }
+  .heading {
+   margin-right: 160px; 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .heading:hover {
+    color: rgb(11, 0, 172);
+    cursor: pointer;
+  }
+
+  .div-4 p{
+    color: #171717;
+    font-weight: bold;
+  }
+  .div-4 i{
+    margin-right: 2px;
+  }
+  .div-1 {
+    width: 1330px;
+    margin: 0 auto;
+    height: 64px;
+    position: sticky;
+  }
+  * {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+  }
+  .div-2 {
+    display: inline-block;
+  }
+
+  .div-2 img {
+    margin-top: 5px;
+    margin-left: 25px;
+  }
+  
+  .div-3 {
+    float: right;
+  }
+  .div-4 {
+    display: inline-block;
+    padding: 13px 23px;
+    
+  }
+  .div-2 {
+    margin-top: 13px;
+  }
+  .color {
+    color: rgb(214, 12, 99);
+  }
+  .color p{
+    color: rgb(214, 12, 99);
+   
+  }
+
+  .div-4 i {
+    font-size: 20px;
+  }
+
+  .dim-5 {
+    margin-top: 40px;
+  }
+  .titleBig {
+    color: #F5F5F5;
+    font-size: 10rem;
+    padding-left: 72px;
+  }
+  .titleSmall {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    color:#000000;
+  }
+  .black{
+      color: #272323;
+  }
+  .All {
+    margin-top: 28px;
+    margin-left: 88px;
+  }
+
+  .All img {
+    width: 280px;
+    height: 274px;
+  }
+  .All img:hover {
+    width: 285px;
+    height: 288px;
+  }
+
+  .ImageAll {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+  }
+  .ImageAll:nth-last-child(1) {
+    margin-right: 0px;
+  }
+  .ImageAll figcaption {
+    font-weight: bold;
+    font-size: 22px;
+    color: #fff;
+    margin: -50px 0 0 18px;
+  }
+  
+.hr {
+    margin-right: 90px;
+}
+
+  .container-1 {
+    margin-top: 48px;
+    margin-left: 72px;
+  }
+
+  .container-1 img {
+    cursor: pointer;
+    width: 280px;
+    height: 284px;
+  }
+  .allImg {
+    display: inline-block;
+    margin-right: 19px;
+    margin-top: 20px;
+  }
+  .allImg:nth-last-child(1) {
+    margin-right: 0px;
+  }
+
+
+
+  .gd-1 {
+    margin-top: 50px;
+  }
+  .gd-3 {
+    height: 432px;
+    background: url('https://d1w7312wesee68.cloudfront.net/RLE9jCnOjAtPu2aKOO3s12o-6sHOSAIrb1QzOl_NbTk/ext:webp/quality:50/plain/s3://toast-sites-prod/restaurantImages%2F8925b8a4-265d-4549-bc4e-2f578e364c63%2FFB%20COver%20copy%20%284%29.jpg') center center;
+    background-size: cover;
+    position: relative;
+    margin-top: 24px;
+  }
+  .gd-4 {
+    width: 533px;
+    height: 340px;
+    background: #fff;
+    position: absolute;
+    left: 80px;
+    top: 274px;
+    padding: 34px 32px;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 0 19px -12px;
+            box-shadow: 0 0 19px -12px;
+
+  }
+  .dum {
+    padding-bottom: 32px;
+  }
+  .gd-5{
+    display: inline-block;
+    background: rgb(214, 12, 99);
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 38px 0 0 291px;
+    padding: 20px 30px;
+    border-radius: 10px;
+  }
+
+
+  .gd-7 {
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+  }
+  .gd-7 h4 {
+    padding-bottom: 17px;
+  }
+  .location {
+    border: none;
+    padding: 16px;
+  }
+  .gd-7 select {
+    border: 3px solid #000000;
+    width: 240px;
+    color: #707070;
+  }
+  .gd-7 input[type=email] {
+    border: 3px solid #000000;
+    color: #707070;
+    width: 380px;
+  }
+  .gd-7 button {
+    border: 3px solid #000000;
+    width: 323px;
+    background: rgb(214, 12, 99);
+    color: #fff;
+    font-weight: bold;
+  }
+  .scRight {
+    float: right;
+    padding-right: 74px;
+    border-radius: 10px;
+  }
+  .socialImg {
+    height: 430px;
+    width: 100%;
+    padding-bottom: 39px;
+    border-bottom: 1px solid #ddd;
+    padding-left: 73px;
+  }
+
+
+  .map {
+    margin: 20px 25px;
+    border-radius: 10px;
+  }
+  
+.container {
+    margin-top: 20px;
+    background: url(https://digitalsynopsis.com/wp-content/uploads/2017/06/beautiful-color-palettes-combinations-schemes-beach-towels.png);
+    background-size: auto;
+}
+
