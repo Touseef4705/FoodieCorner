@@ -100,3 +100,7 @@ body {
     margin-left: 75px;
   }
   
+  .map {
+    margin-top: 100px;
+    border-radius: 10px;
+  }
