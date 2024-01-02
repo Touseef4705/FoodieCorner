@@ -224,12 +224,12 @@ body {
     margin-bottom: -70px;
     margin-left: 70px;
   }
-.map-text {
+  .map-text {
     color: #F5F5F5;
     font-size: 10rem;
     padding-left: 0;
   }
-.map {
+  .map {
     margin-top: 100px;
     border-radius: 10px;
   }
